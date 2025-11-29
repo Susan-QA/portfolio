@@ -14,12 +14,22 @@ Hier dokumentiere ich meinen Lernfortschritt, erstelle Beispiele aus dem Softwar
 
 ## 👩‍💻 Über mich
 
-Ich bin Susan, angehende **QA Engineerin** mit Erfahrung in Sachbearbeitung, Kundenberatung, Architektur und Finanzwesen. Durch meinen aktuellen Lernweg konzentriere ich mich auf **Software-Testing**, **Python-Entwicklung** und die Erstellung sauberer, strukturierter Testdokumentation.
+Ich bin Susan, angehende **QA Engineerin** mit vielseitiger beruflicher Erfahrung in Sachbearbeitung, Kundenberatung, Architektur, Finanzwesen und Qualitätsmanagement. Auf meinem aktuellen Lernweg konzentriere ich mich auf **Software-Testing**, **Python-Entwicklung** und die Erstellung sauberer, strukturierter Testdokumentation.
 
 Warum QA? 
-Weil ich gern strukturiert arbeite, Fehler analysiere, Ursachen finde und Prozesse effizienter mache. Mir macht es Spaß, Systeme zu verstehen, sauber zu testen und nachvollziehbare Ergebnisse zu liefern.
+Weil ich gern strukturiert arbeite, Fehler analysiere, Ursachen finde und Prozesse effizienter mache. Ich habe Freude daran, Systeme zu verstehen, logisch zu testen und klare, nachvollziehbare Ergebnisse zu liefern.
 
-Aktuell baue ich mein technisches Wissen durch praktische Projekte auf - mit Fokus auf:
+Zusätzliche relevante Erfahrung:
+
+- **Qualitätsmanagement (QMB)** inklusive Vorbereitung und Begleitung von internen sowie externen Audits
+
+- **Erfahrung im Erstellen und Pflegen von Webseiten**
+
+- **Dokumentation, Prozessanalyse und Einhaltung von Standards**
+
+- Ein ausgeprägtes Verständnis für strukturierte Abläufe und Qualitätssicherung
+
+Derzeit erweitere ich mein technisches Wissen durch praktische Projekte - mit Fokus auf:
 
 - Manual Testing
 
@@ -29,9 +39,9 @@ Aktuell baue ich mein technisches Wissen durch praktische Projekte auf - mit Fok
 
 - Python-Scripting
 
-- Testautomatisierung (Einstieg)
+- Einstieg in die Testautomatisierung
 
-Ich suche langfristig eine Tätigkeit, die **Abwechslung**, **logisches Arbeiten** und **Qualitätssicherung** verbindet - idealerweise **remote**.
+Ich suche langfristig eine Tätigkeit, die **Abwechslung**, **Qualitätssicherung**, **logisches Arbeiten** und **Weiterentwicklung** verbindet - idealerweise **remote**.
 
 ## 📂 Projektübersicht
 ### 🧪 manual-testing
